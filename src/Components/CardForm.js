@@ -135,7 +135,7 @@ export default function CardForm(props) {
               >
                 <SelectFormComponent
                   validasi={true}
-                  name="temVideo"
+                  name="temaVideo"
                   label="Tema Undangan Video/Jpeg"
                   defaultValue={values.temaVideo}
                   optionsTitle="Silakan Pilih Tema"
